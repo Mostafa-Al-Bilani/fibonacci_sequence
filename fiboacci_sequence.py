@@ -1,7 +1,6 @@
-number = int(input("Enter a number: "))#we take a number from the user
+number = int(input("Enter a number: "))
 num1 = 0
 num2 = 1 
-#special cases
 
 for i in range(0, number+1):#we loop through the numbers
     if i == 0: # specail case
